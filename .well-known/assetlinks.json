@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.stockstotrade",
+    "sha256_cert_fingerprints":
+    ["01:32:B1:90:53:BE:41:5F:5E:B9:FC:26:62:D2:D3:EF:BD:1A:92:B6:6B:83:6D:77:9A:33:85:5B:E9:7C:23:E5"]
+  }
+}]
